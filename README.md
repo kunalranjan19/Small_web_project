@@ -1,12 +1,12 @@
 # Small_web_project
 
-#All small project that i made while learning Front-end.
+->All small project that i made while learning Front-end.
 
 
-#Tech used:
+->Tech used:
 
-HTML
+  -HTML
 
-CSS
+  -CSS
 
-Javascript
+  -Javascript
