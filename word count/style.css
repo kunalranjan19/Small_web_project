@@ -1,0 +1,41 @@
+body{
+    background: radial-gradient(ellipse at top, #e66465, transparent),
+    radial-gradient(ellipse at bottom, #4d9f0c, transparent);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-height: 100vh;
+    text-align: center;
+}
+
+input{
+    margin: 100px auto 100px;
+    /* margin-left: 220px; */
+    width: 350px;
+    height: 40px;
+    display: block;
+    text-align: center;
+}
+
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: greenyellow;
+    margin: 100px auto 100px;
+
+}
+
+#btn{
+    width: 350px;
+    height: 80px;
+    color: #fff;
+    background-color:rgb(62, 61, 61);
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 100px;
+    /* margin-left: 385px; */
+}
+
+h1{
+    
+    color: #000;
+    margin-top: 50px;
+}
