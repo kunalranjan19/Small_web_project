@@ -1,6 +1,6 @@
 # Small_web_project
 
-->small project that I made while learning Front-end!!!!
+->small project that I made while learning Front-end!!!!(Will update)
 
 
 ####Tech used:
